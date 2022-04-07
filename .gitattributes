@@ -1,0 +1,25 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+using System;
+using System.ComponentModel.DataAnnotations;
+using System.Collections.Generic;
+
+namespace 
+{
+@{
+ for(int i=1;i<=5;i++)
+ {
+ <h2>Iteration: @i, Current Date and Time is:
+@DateTime.Now.ToString()</h2>
+ }
+}
+
+
+<table width="75%" cellpadding="5" cellspacing="6" align="center">
+ <tr>
+ <td bgcolor="orange" align="center">Home</td>
+ <td bgcolor="orange" align="center">Downloads</td>
+ <td bgcolor="orange" align="center">Miscellaneous</td>
+ <td bgcolor="orange" align="center">About Us</td>
+ </tr>
+</table>
